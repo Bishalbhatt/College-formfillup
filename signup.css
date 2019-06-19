@@ -1,0 +1,14 @@
+ .form{
+ margin-top: 100px;
+ margin-left: 300px;
+ margin-right: 500px;
+ background-color: green;
+ padding-right: 60px;
+ padding-left: 180px;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ bottom: 20px;
+ }
+ body{
+     background-color: aqua;
+ }
